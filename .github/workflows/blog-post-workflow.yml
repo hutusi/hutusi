@@ -11,7 +11,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v2
-      - name: Pull in dev.to posts
+      - name: Pull in hutusi.com posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://hutusi.com/feed.xml"
+          max_post_count: 6
