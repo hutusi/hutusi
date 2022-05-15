@@ -15,7 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Latest Blog posts
+I'm John. I am a software engineer. I love sharing learning and ideas on my personal blog [胡涂说](https://hutusi.com/).
+
+- 📫 How to reach me: [@hutusi](https://twitter.com/hutusi)
+
+### 📝 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [如何选择图书译本？](https://hutusi.com/articles/good-translations)
 - [No.13: 周刊的周刊](https://hutusi.com/articles/weekly-13)
