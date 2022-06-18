@@ -21,7 +21,7 @@ I'm John. I am a software engineer. I love sharing learning and ideas on my pers
 
 ### 📝 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [端午节骑行，看一看两个多月未见的上海](https://hutusi.com/articles/cycling-in-shanghai-after-lockdown)
+- [上海周末骑行：从浦东到外白渡桥](https://hutusi.com/articles/cycling-in-shanghai-after-lockdown)
 - [如何选择图书译本？](https://hutusi.com/articles/good-translations)
 - [No.13: 周刊的周刊](https://hutusi.com/articles/weekly-13)
 - [读书日，推荐些童话和小说](https://hutusi.com/articles/some-good-fiction-books)
