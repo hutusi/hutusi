@@ -21,10 +21,10 @@ I'm John. I am a software engineer. I love sharing learning and ideas on my pers
 
 ### 📝 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [我们都是新穷人](https://hutusi.com/articles/the-new-poor)
 - [代码、法律和自由软件](https://hutusi.com/articles/code-v2)
 - [乾隆的性格](https://hutusi.com/articles/qianlong)
 - [当下我们还需要启蒙吗？](https://hutusi.com/articles/enlightenment-now)
 - [云门胡饼赵州茶](https://hutusi.com/articles/zen-baggage)
 - [上海周末骑行：从浦东到外白渡桥](https://hutusi.com/articles/cycling-in-shanghai-after-lockdown)
-- [如何选择图书译本？](https://hutusi.com/articles/good-translations)
 <!-- BLOG-POST-LIST:END -->
