@@ -21,10 +21,10 @@ I'm John. I am a software engineer. I love sharing learning and ideas on my pers
 
 ### 📝 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [心猿意马](https://hutusi.com/articles/restless-mind-2024-review)
 - [从铁幕到硅幕](https://hutusi.com/articles/the-silicon-curtain)
 - [银弹飞过先锋大厦](https://hutusi.com/articles/the-history-of-software-engineering)
 - [从神经网络到 Hugging Face](https://hutusi.com/articles/the-history-of-neural-networks)
 - [在大理，听打雷](https://hutusi.com/articles/dalifornia)
 - [Git 纪元](https://hutusi.com/articles/after-git)
-- [凡所有相，皆是虚妄](https://hutusi.com/articles/awareness-2023-review)
 <!-- BLOG-POST-LIST:END -->
